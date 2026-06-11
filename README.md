@@ -18,3 +18,5 @@ final_analysis.R: This R script contains the community analysis of the microbiom
 
 [sampl_id]_waterbird_1/2/3_raw: NanoPlot output for the raw dataset.
 [sampl_id]_waterbird_1/2/3_filt: NanoPlot utput for the filtered dataset.
+
+Figure_stacked_bar_top10_taxa.png: Abundance of the 10 most common bacteriea in each sample.
