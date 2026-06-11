@@ -1,0 +1,24 @@
+2026-06-09 17:13:45,256 NanoPlot 1.42.0 started with arguments Namespace(threads=12, verbose=False, store=False, raw=False, huge=False, outdir='ST05033_waterbird_1_filt', no_static=False, prefix='', tsv_stats=True, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=True, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['ST05033_waterbird_1_filt.fastq.gz'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='ST05033_waterbird_1_filt/')
+2026-06-09 17:13:45,256 Python version is: 3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:38:13) [GCC 12.3.0]
+2026-06-09 17:13:45,268 Nanoget: Starting to collect statistics from plain fastq file.
+2026-06-09 17:13:45,268 Nanoget: Decompressing gzipped fastq ST05033_waterbird_1_filt.fastq.gz
+2026-06-09 17:13:56,238 Reduced DataFrame memory usage from 1.4183692932128906Mb to 1.4183692932128906Mb
+2026-06-09 17:13:56,256 Nanoget: Gathered all metrics of 92946 reads
+2026-06-09 17:13:56,296 Calculated statistics
+2026-06-09 17:13:56,297 Using sequenced read lengths for plotting.
+2026-06-09 17:13:56,300 NanoPlot:  Valid color #4CB391.
+2026-06-09 17:13:56,300 NanoPlot:  Valid colormap Greens.
+2026-06-09 17:13:56,304 NanoPlot:  Creating length plots for Read length.
+2026-06-09 17:13:56,304 NanoPlot: Using 92946 reads with read length N50 of 1613bp and maximum of 1800bp.
+2026-06-09 17:13:57,105 Saved ST05033_waterbird_1_filt/WeightedHistogramReadlength  as png (or png for --legacy)
+2026-06-09 17:13:57,901 Saved ST05033_waterbird_1_filt/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2026-06-09 17:13:58,690 Saved ST05033_waterbird_1_filt/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2026-06-09 17:13:59,469 Saved ST05033_waterbird_1_filt/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2026-06-09 17:14:00,765 Saved ST05033_waterbird_1_filt/Yield_By_Length  as png (or png for --legacy)
+2026-06-09 17:14:00,765 Created length plots
+2026-06-09 17:14:00,768 NanoPlot: Creating Read lengths vs Average read quality plots using 92946 reads.
+2026-06-09 17:14:02,161 Saved ST05033_waterbird_1_filt/LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2026-06-09 17:14:04,183 Saved ST05033_waterbird_1_filt/LengthvsQualityScatterPlot_kde  as png (or png for --legacy)
+2026-06-09 17:14:04,183 Created LengthvsQual plot
+2026-06-09 17:14:04,184 Writing html report.
+2026-06-09 17:14:04,195 Finished!
