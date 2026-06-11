@@ -23,3 +23,5 @@ Figure_stacked_bar_top10_taxa.png: Abundance of the 10 most common bacteriea in 
 waterbird_1/2/3: Raw abundance data and scripts
 
 metadata-15757625-processed-ok.tsv: Accession numbers for sequences on NCBI 
+
+SIMPER_significant_results.csv: SIMPER results contributing to interspecific differences.
