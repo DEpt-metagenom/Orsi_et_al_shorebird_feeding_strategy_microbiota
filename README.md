@@ -16,7 +16,8 @@ samples_metadata.xlsx: This Excel file contains the metadata for the collected a
 
 final_analysis.R: This R script contains the community analysis of the microbiome
 
-[sampl_id]_waterbird_1/2/3_raw: NanoPlot output for the raw dataset.
-[sampl_id]_waterbird_1/2/3_filt: NanoPlot utput for the filtered dataset.
+NanoPlot output: NanoPlot utput for the raw filtered dataset.
 
 Figure_stacked_bar_top10_taxa.png: Abundance of the 10 most common bacteriea in each sample.
+
+waterbird_1/2/3: Raw abundance data and scripts
