@@ -1,0 +1,24 @@
+Metrics	dataset
+number_of_reads	410533
+number_of_bases	642643561.0
+median_read_length	1576.0
+mean_read_length	1565.4
+read_length_stdev	72.1
+n50	1577.0
+mean_qual	12.1
+median_qual	12.8
+longest_read_(with_Q):1	1800 (11.2)
+longest_read_(with_Q):2	1800 (10.4)
+longest_read_(with_Q):3	1800 (10.6)
+longest_read_(with_Q):4	1800 (10.4)
+longest_read_(with_Q):5	1800 (10.0)
+highest_Q_read_(with_length):1	19.3 (1548)
+highest_Q_read_(with_length):2	19.0 (1624)
+highest_Q_read_(with_length):3	18.9 (1615)
+highest_Q_read_(with_length):4	18.9 (1289)
+highest_Q_read_(with_length):5	18.8 (1608)
+Reads >Q5:	410533 (100.0%) 642.6Mb
+Reads >Q7:	410533 (100.0%) 642.6Mb
+Reads >Q10:	410471 (100.0%) 642.5Mb
+Reads >Q12:	282349 (68.8%) 442.9Mb
+Reads >Q15:	30494 (7.4%) 48.1Mb
