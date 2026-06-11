@@ -1,0 +1,16 @@
+_id	projectID	sampleID	isolation_source	source_type	host	collection_date	collected_by	locality	preservation	platform	sequencing_approach	barcode	run_date	run_directory	project_directory	if_repeated
+652c4610312dae40112ee960	waterbird_microbiome	SX03219	fecal	Animal	Tringa glareola	2023-08-31	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode01	2023-01-16	waterbird_3	waterbird_microbiome	n
+652c4610312dae40112ee961	waterbird_microbiome	SX03220	fecal	Animal	Tringa glareola	2023-08-31	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode02	2023-01-16	waterbird_3	waterbird_microbiome	n
+652c4610312dae40112ee963	waterbird_microbiome	SX03222	fecal	Animal	Tringa glareola	2023-08-31	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode03	2023-01-16	waterbird_3	waterbird_microbiome	n
+652c4610312dae40112ee964	waterbird_microbiome	SX03223	fecal	Animal	Tringa glareola	2023-08-31	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode04	2023-01-16	waterbird_3	waterbird_microbiome	n
+652c4610312dae40112ee965	waterbird_microbiome	SX03224	fecal	Animal	Tringa glareola	2023-08-31	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode05	2023-01-16	waterbird_3	waterbird_microbiome	n
+652c4610312dae40112ee966	waterbird_microbiome	SX03226	fecal	Animal	Tringa glareola	2023-09-12	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode06	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f283fd	waterbird_microbiome	log_std								Nanopore MinION	16S	barcode15	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f283fe	waterbird_microbiome	NFW								Nanopore MinION	16S	barcode13	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f28400	waterbird_microbiome	ST05071	fecal	Animal	Gallinago gallinago	2023-10-18	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode07	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f28401	waterbird_microbiome	ST05072	fecal	Animal	Gallinago gallinago	2023-10-18	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode08	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f28402	waterbird_microbiome	ST05073	fecal	Animal	Gallinago gallinago	2023-10-25	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode09	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f28403	waterbird_microbiome	ST05074	fecal	Animal	Gallinago gallinago	2023-10-25	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode10	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f28404	waterbird_microbiome	ST05075	fecal	Animal	Gallinago gallinago	2023-10-25	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode11	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f28405	waterbird_microbiome	ST05076	fecal	Animal	Gallinago gallinago	2023-10-25	Ádám Lovas-Kiss	HU: Berettyóújfalu; Andaháza	DNA shield	Nanopore MinION	16S	barcode12	2023-01-16	waterbird_3	waterbird_microbiome	n
+65a7f1933f76e44806f2840d	waterbird_microbiome	zymod6305								Nanopore MinION	16S	barcode14	2023-01-16	waterbird_3	waterbird_microbiome	n
