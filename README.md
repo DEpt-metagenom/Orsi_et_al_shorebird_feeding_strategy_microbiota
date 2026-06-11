@@ -21,3 +21,5 @@ NanoPlot output: NanoPlot utput for the raw filtered dataset.
 Figure_stacked_bar_top10_taxa.png: Abundance of the 10 most common bacteriea in each sample.
 
 waterbird_1/2/3: Raw abundance data and scripts
+
+metadata-15757625-processed-ok.tsv: Accession numbers for sequences on NCBI 
