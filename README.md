@@ -16,7 +16,7 @@ samples_metadata.xlsx: This Excel file contains the metadata for the collected a
 
 final_analysis.R: This R script contains the community analysis of the microbiome
 
-NanoPlot output: NanoPlot utput for the raw filtered dataset.
+NanoPlot output: NanoPlot utput for the raw and filtered dataset.
 
 Figure_stacked_bar_top10_taxa.png: Abundance of the 10 most common bacteriea in each sample.
 
