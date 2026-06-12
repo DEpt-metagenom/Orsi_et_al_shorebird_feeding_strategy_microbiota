@@ -14,7 +14,7 @@ plot_err.R: This R script helps to check for errors and compare with the positiv
 
 samples_metadata.xlsx: This Excel file contains the metadata for the collected and used samples
 
-final_analysis.R: This R script contains the community analysis of the microbiome
+final_analysis2.R: This R script contains the community analysis of the microbiome
 
 [sample_id]_waterbird_1/2/3_filt/raw NanoPlot utput for the raw and filtered dataset.
 
